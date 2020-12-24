@@ -1,2 +1,2 @@
 # ehttpc
-HTTP Client for Erlang/OTP
+An HTTP Client for Erlang/OTP
